@@ -1,7 +1,7 @@
 ### Hi! 👋
 
-- ✨ Currently a year 1 CS student in NUS
-- 🎨 Hobbies: game dev, 3D modelling, art
+✨ Currently a year 1 CS student in NUS
+🎨 Hobbies: game dev, 3D modelling, art
 
 
 <!--
