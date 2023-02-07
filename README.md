@@ -1,8 +1,8 @@
 ### Hi! 👋
 
-- ✨ I am Jackie, currently studying CS at NUS
+- ✨ Currently a year 1 CS student in NUS
 - 🎨 Hobbies: game dev, 3D modelling, art
-- 🌱 Currently learning about web dev
+
 
 <!--
 **jack1e0/jack1e0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
