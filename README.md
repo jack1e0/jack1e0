@@ -2,7 +2,7 @@
 
 - ✨ Currently a year 1 CS student in NUS
 - 🎨 Hobbies: game dev, graphic design, software dev
-- 🎮 View games on https://jack1e0.itch.io/
+- 🎮 View projects on https://jack1e0.itch.io/
 
 
 <!--
