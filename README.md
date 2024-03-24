@@ -1,10 +1,5 @@
 ### Hi! 👋
 
-- ✨ Currently a year 1 CS student in NUS
-- 🎨 Hobbies: game dev, graphic design, software dev
-- 🎮 View projects on https://jack1e0.itch.io/
-
-
 <!--
 **jack1e0/jack1e0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
